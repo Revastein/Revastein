@@ -1,0 +1,3 @@
+- 👋 Hi I'm @Revastein and I'm trying to find myself.
+- 👀 I'm interested in the universe and everything connected with it.
+- 🌱 At the moment I'm trying to learn some programming languages...![40d21874b847cd5520fb6636ceb411d1](https://user-images.githubusercontent.com/102987019/161596291-0a9c14df-f176-45e9-ab41-44328fcce666.jpg)
