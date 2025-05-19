@@ -1,10 +1,6 @@
 # Hello, I'm Ian Kovzel! 👋
 
-*DevOps Engineer | Automation Enthusiast | Continuous Learner*
-
-I'm a **DevOps Engineer at Glera Games**, where I build scalable infrastructure and robust CI/CD pipelines. I started my
-career in QA automation and monitoring, which helps me bring a holistic perspective to system reliability and
-automation.
+*Monitoring Engineer | DevOps Engineer | SDET*
 
 ## 🛠️ Skills & Interests
 
@@ -12,8 +8,6 @@ automation.
 - **CI/CD & Automation:** GitLab CI/CD, Jenkins, GitHub Actions – building pipelines and automating deployments
 - **Programming:** Python (for scripting and automation), Bash
 - **Monitoring & Observability:** Designing monitoring solutions, metrics & log analysis for system health
-
-## 📈 GitHub Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Revastein&layout=compact&hide_border=true&theme=transparent)
 
